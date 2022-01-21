@@ -1,0 +1,455 @@
+D:\Workspace asp.net proj\Project\Project\bin\ApplicationInsights.config
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\csc.exe
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace asp.net proj\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace asp.net proj\Project\Project\bin\Project.dll.config
+D:\Workspace asp.net proj\Project\Project\bin\Project.dll
+D:\Workspace asp.net proj\Project\Project\bin\Project.pdb
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace asp.net proj\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace asp.net proj\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace asp.net proj\Project\Project\obj\Debug\Project.dll
+D:\Workspace asp.net proj\Project\Project\obj\Debug\Project.pdb
+D:\Workspace asp.net proj\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace asp.net proj\Project\Project\bin\AjaxControlToolkit.dll
+D:\Safe box\Project\Project\Project\bin\ApplicationInsights.config
+D:\Safe box\Project\Project\Project\bin\roslyn\csc.exe
+D:\Safe box\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Safe box\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Safe box\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Safe box\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Safe box\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Safe box\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Safe box\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Safe box\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Safe box\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Safe box\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Safe box\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Safe box\Project\Project\Project\bin\Project.dll.config
+D:\Safe box\Project\Project\Project\bin\Project.dll
+D:\Safe box\Project\Project\Project\bin\Project.pdb
+D:\Safe box\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Safe box\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Safe box\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Safe box\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Safe box\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Safe box\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Safe box\Project\Project\Project\obj\Debug\Project.dll
+D:\Safe box\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver3\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver3\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver3\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver3\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver3\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver5\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver5\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver5\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver5\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver5\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver6\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver6\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver6\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver6\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver6\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver7\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver7\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver7\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver7\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver7\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver8\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver8\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver8\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver8\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver8\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver9\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver9\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver9\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver9\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver10\Project ver9\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver11\Project ver9\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver12\Project ver9\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver13\Project ver9\Project\Project\Project\obj\Debug\Project.pdb
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\ApplicationInsights.config
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\csc.exe
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\vbc.exe
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Project.dll.config
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Project.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Project.pdb
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\AjaxControlToolkit.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.Web.xml
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.ApplicationInsights.xml
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\obj\Debug\Project.dll
+D:\Workspace Safe box\Project ver14\Project ver9\Project\Project\Project\obj\Debug\Project.pdb
