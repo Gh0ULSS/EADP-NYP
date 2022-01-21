@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Login.Master.cs" Inherits="Project.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+<link href="Content/Bootstrap.css" rel="stylesheet" />
+<link href="SiteMaster.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body> 
+
+    <nav>
+		<ul>
+            <li class ="imageholder"><img src="images/zenith2.PNG" class="image"/></li>
+		</ul>
+	</nav>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <footer id="footer">
+        <a href="http://www.nyp.edu.sg"><img class="nyp" src="images/nyplogo.png" /></a>
+        <img class="ig" src="images/Instagram.png" />
+        <img class="fb" src="images/facebook.png" />
+        <img class="tw" src="images/Twitter.png" />
+        <p class="text">2017 WorkConnect, NYP. All rights reserved.</p>
+    </footer>
+
+</body>
+
+
+</html>

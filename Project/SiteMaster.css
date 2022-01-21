@@ -1,0 +1,145 @@
+﻿
+/* Master Page */
+
+nav {
+    background-color: rgb(23, 70, 83);
+    width: 100%;
+    height: 30%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    color: white;
+    font-family: Calibri;
+    font-size: 20px;
+    margin-top: 12px;
+    margin-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.home {
+    color: white;
+    margin-left: 70px;
+}
+
+.image {
+    width: 120px;
+    height: 35px;
+}
+
+.imageholder {
+    margin-left: 0;
+}
+
+#footer {
+    background-color: lightgrey;
+    height: 100px;
+    margin-top: 40px;
+}
+
+.text {
+    text-align: center;
+    margin-top: 5px;
+    font-family: Calibri;
+    font-size: 17px;
+}
+
+.ig {
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.fb {
+    height: 40px;
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.tw {
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+.nyp {
+    height: 40px;
+    width: 190px;
+    margin-top: 25px;
+    margin-left: 450px;
+}
+
+.slideshow {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+/* My part */
+
+.calendar {
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+.background {
+    background-color: black;
+    filter: alpha(opacity = 80);
+    opacity: 0.8;
+}
+
+.info {
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.close2 {
+    margin-left: 230px;
+}
+
+.heading {
+    margin-left: 20px;
+}
+
+.labels {
+    margin-left: 58px;
+}
+
+.viewdetails {
+    margin-top: 25px;
+    margin-left: 800px;
+}
+
+.payment {
+    margin-left: 200px;
+    margin-top: 50px;
+    color: red;
+    text-decoration: underline;
+}
+
+.dueinfo {
+    margin-left: 200px;
+    color: red;
+}
+
+/* Testing */
+
+.panel {
+    width: 300px;
+    height: 515px;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: white;
+    margin-top: 30px;
+}

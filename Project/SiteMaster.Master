@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMaster.master.cs" Inherits="Project.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+<link href="SiteMaster.css" rel="stylesheet" />
+<link href="Content/Bootstrap.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body> 
+
+    <nav>
+		<ul>
+            <li class ="imageholder"><img src="images/zenith2.PNG" class="image"/></li>
+			<li><a  href='HomeEmployee.aspx' class="home">Home</a></li>
+			<li><a  href='EmployeeProfile.aspx'>Profile</a></li>
+			<li><a  href='JobTrackerEmployee.aspx'>Job Tracker</a></li>
+            <li><a  href='JobHistory.aspx'>Job History</a></li>
+			<li><a  href='JobMatching.aspx'>Job Matching</a></li>
+            <li><a  href='Search.aspx'>Search</a></li>
+		</ul>
+	</nav>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <footer id="footer">
+        <a href="http://www.nyp.edu.sg"><img class="nyp" src="images/nyplogo.png" /></a>
+        <img class="ig" src="images/Instagram.png" />
+        <img class="fb" src="images/facebook.png" />
+        <img class="tw" src="images/Twitter.png" />
+        <p class="text">2017 WorkConnect, NYP. All rights reserved.</p>
+    </footer>
+
+</body>
+
+
+</html>
